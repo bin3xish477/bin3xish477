@@ -1,6 +1,6 @@
 ### ✨✨Hello World 👋
 
-My name is Alexis Rodriguez and I am a cybersecurity professional currently looking for a cybersecurity analyst or penetration testing role. I currently possess the **CySA+** (Cybersecurity Analyst+) and **OSCP** (Offensive Security Certified Professional) certifications.
+My name is **Alexis Rodriguez** and I am a cybersecurity professional currently looking for a cybersecurity analyst or penetration testing role. I currently possess the **CySA+** (Cybersecurity Analyst+) and **OSCP** (Offensive Security Certified Professional) certifications.
 
 ### At this moment
 - 🔭 I’m currently working on:
