@@ -5,7 +5,7 @@ My name is **Alexis Rodriguez** and I am a cybersecurity professional currently 
 ### At this moment
 - 🔭 I’m currently working on:
   - **3agL3** - a simple pcap analysis command-line tool for Windows & Linux
-  	
+```
                     __,__r========qL,
                  ,m**`~'            XW;
           ____Lm/'      _mmmm    jW@+===m___,
@@ -44,6 +44,7 @@ V,| `~~Y*+mL_,  :f~~ ~                   q_    V#b
                                                ~`#WdD~  Y!
                                                `'_|#f--
                                                    *
+```
   - a Python for Cybersecurity Guide --> https://binexishatt.github.io/pythonforcybersecurity.github.io
 - 🌱 I’m currently learning: malware analysis, mastering iptables, and continuing to study for cybersecurity certifications (**Sec+** && **CISSP**)
 - 👯 I’m looking to collaborate on: more Python projects
