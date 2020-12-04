@@ -1,12 +1,17 @@
 ### 👋 Hello World 👋
 
-My name is ✨ **Alexis Rodriguez** ✨ and I am a cybersecurity professional currently looking for a cybersecurity analyst or penetration testing role. I currently possess the **CySA+** (Cybersecurity Analyst+), **OSCP** (Offensive Security Certified Professional), and **Security+** certifications.
+My name is ✨ **Alexis Rodriguez** ✨ and I am a cybersecurity professional currently looking for a cybersecurity analyst or penetration testing role. I currently possess the **CompTIA CySA+** (Cybersecurity Analyst+), **OSCP** (Offensive Security Certified Professional), and **CompTIA Security+** certifications.
 
 ### At this moment
 - 🔭 I’m currently working on:
-  - **3agL3** - a simple pcap analysis command-line tool for Windows & Linux
+  - my own suite of cybersecurity tools similar to the Eric Zimmerman tool suite
   - Python for Cybersecurity Guide --> https://binexishatt.github.io/pythonforcybersecurity.github.io
-- 🌱 I’m currently learning: Cryptography with Python, malware analysis, and studying for cybersecurity certifications (**OSWE**, **AWS Certified Cloud Practioner**)
+- 🌱 I’m currently: 
+  - learning Google Cloud Platform
+  - learning digitial forensics
+  - studying for cybersecurity certifications (**OSWE**, **OSCE**, **CISSP**)
+  - studying web application security with **PortSwiggers Web Academy**
+  - hacking away at **HackThebox.eu**
 - 👯 I’m looking to collaborate on: more open source Python projects
 - 📫 How to reach me: **rodriguez10011999@gmail.com**
 - 😄 Pronouns: he/him/his
