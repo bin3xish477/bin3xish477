@@ -7,7 +7,7 @@ My name is ✨ **Alexis Rodriguez** ✨ and I am a cybersecurity professional cu
   - my own suite of cybersecurity tools similar to the Eric Zimmerman tool suite
   - Python for Cybersecurity Guide --> https://binexishatt.github.io/pythonforcybersecurity.github.io
 - 🌱 I’m currently: 
-  - learning Google Cloud Platform
+  - learning AWS
   - learning digitial forensics
   - studying for cybersecurity certifications (**OSWE**, **OSCE**, **CISSP**)
   - studying web application security with **PortSwiggers Web Academy**
