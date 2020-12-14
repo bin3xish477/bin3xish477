@@ -4,7 +4,7 @@ My name is ✨ **Alexis Rodriguez** ✨ and I am a cybersecurity professional cu
 
 ### At this moment
 - 🔭 I’m currently working on:
-  - my own suite of cybersecurity tools similar to the Eric Zimmerman tool suite
+  - **PyCoOK**, a command-line tool for encoding, hashing, file compression, regular expressions, general text manipulation, applying YARA rules, and more.
   - Python for Cybersecurity Guide --> https://binexishatt.github.io/pythonforcybersecurity.github.io
 - 🌱 I’m currently: 
   - learning AWS
