@@ -3,9 +3,6 @@
 My name is ✨ **Alexis Rodriguez** ✨ and I am a cybersecurity professional currently looking for a cybersecurity analyst or penetration testing role. I currently possess the **CompTIA CySA+** (Cybersecurity Analyst+), **OSCP** (Offensive Security Certified Professional), and **CompTIA Security+** certifications.
 
 ### At this moment
-- 🔭 I’m currently working on:
-  - **PyCoOK**, a command-line tool for encoding, hashing, file compression, regular expressions, general text manipulation, and more.
-  - Python for Cybersecurity Guide --> https://binexishatt.github.io/pythonforcybersecurity.github.io
 - 🌱 I’m currently: 
   - learning AWS
   - learning digitial forensics
