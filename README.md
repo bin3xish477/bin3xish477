@@ -5,11 +5,10 @@ My name is ✨ **Alexis Rodriguez** ✨ and I am a cybersecurity professional cu
 ### At this moment
 - 🌱 I’m currently: 
   - learning AWS
-  - learning digitial forensics
   - studying for cybersecurity certifications (**OSWE**, **OSCE**)
   - studying web application security with **PortSwiggers Web Academy**
   - hacking away at **HackThebox.eu**
-  - learning the Go programming language
+  - learning Go programming language
 - 👯 I’m looking to collaborate on: more open source Python projects
 - 📫 How to reach me: **rodriguez10011999@gmail.com**
 - 😄 Pronouns: he/him/his
