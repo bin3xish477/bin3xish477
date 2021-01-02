@@ -9,7 +9,7 @@ My name is ✨ **Alexis Rodriguez** ✨ and I am a cybersecurity professional cu
   - studying web application security with **PortSwiggers Web Academy**
   - hacking away at **HackThebox.eu**
   - learning Go programming language
-- 👯 I’m looking to collaborate on: more open source Python projects
+- 👯 I’m looking to collaborate on: more open-source Python projects
 - 📫 How to reach me: **rodriguez10011999@gmail.com**
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I have 1 Ball Python (Galileo), 3 Crested Geckos (Faraday, Curie, & Ida), 1 Bearded Dragon (Neil aka 'Pepsi'), 1 Leopard Gecko (Kepler), 1 Pacman Frog (Newton), 2 Guinea pigs (Flora & Fauna), and 1 dog (Emma)
