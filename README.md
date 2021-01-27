@@ -4,7 +4,7 @@ My name is ✨ **Alexis Rodriguez** ✨ and I am a cybersecurity professional cu
 
 ### At this moment
 - 🌱 I’m currently: 
-  - learning Malware Analysis
+  - learning Malware Analysis and Detection Engineering
   - studying for cybersecurity certifications (**OSWE**, **OSCE**)
   - studying web application security with **PortSwiggers Web Academy**
   - hacking away at **HackThebox.eu**
