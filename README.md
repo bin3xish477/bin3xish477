@@ -3,7 +3,8 @@
 My name is ✨ **Alexis Rodriguez** ✨ and I am a cybersecurity professional currently looking for a cybersecurity analyst or penetration testing role. I currently possess the **CompTIA CySA+** (Cybersecurity Analyst+), **OSCP** (Offensive Security Certified Professional), and **CompTIA Security+** certifications.
 
 ### At this moment
-- 🌱 I’m currently: 
+- 🌱 I’m currently:
+  - working on `simple5ploit`, a Python-based exploitation/information gathering project
   - learning Amazon Web Services
   - studying for CISSP
   - hacking away at **HackThebox.eu**, profile @ https://www.hackthebox.eu/profile/264210
