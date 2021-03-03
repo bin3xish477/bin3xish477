@@ -1,6 +1,9 @@
 ### 👋 `Hello, World!` 👋
 
-My name is ✨ **Alexis Rodriguez** ✨ and I am a cybersecurity professional currently looking for a cybersecurity analyst or penetration testing role. I currently possess the **CompTIA CySA+** (Cybersecurity Analyst+), **OSCP** (Offensive Security Certified Professional), and **CompTIA Security+** certifications.
+My name is ✨ **Alexis Rodriguez** ✨ and I am a Cybersecurity Analyst @GuardSight. I have the following certifications:
+1. **CompTIA CySA+** (Cybersecurity Analyst+)
+2. **OSCP** (Offensive Security Certified Professional)
+3. **CompTIA Security+** certifications.
 
 ### At this moment
 - 🌱 I’m currently:
