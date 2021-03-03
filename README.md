@@ -1,9 +1,9 @@
 ### 👋 `Hello, World!` 👋
 
-My name is ✨ **Alexis Rodriguez** ✨ and I am a Cybersecurity Analyst @GuardSight. I have the following certifications:
-1. **CompTIA CySA+** (Cybersecurity Analyst+)
-2. **OSCP** (Offensive Security Certified Professional)
-3. **CompTIA Security+** certifications.
+My name is ✨ **Alexis Rodriguez** ✨ and I am a Cybersecurity Analyst. I have the following certifications:
+- **CompTIA CySA+** (Cybersecurity Analyst+)
+- **OSCP** (Offensive Security Certified Professional)
+- **CompTIA Security+** certifications.
 
 ### At this moment
 - 🌱 I’m currently:
