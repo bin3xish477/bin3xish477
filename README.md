@@ -11,7 +11,6 @@ My name is ✨ **Alexis Rodriguez** ✨ and I am a Cybersecurity Analyst. I have
   - learning Amazon Web Services
   - studying for CISSP
   - hacking away at **HackThebox.eu**, profile @ https://www.hackthebox.eu/profile/264210
-  - learning Go programming language
 - 👯 I’m looking to collaborate on: open-source Python projects
 - 📫 How to reach me: **rodriguez10011999@gmail.com**
 - 😄 Pronouns: he/him/his
