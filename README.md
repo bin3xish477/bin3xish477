@@ -1,6 +1,6 @@
 ### 👋 `Hello, World!` 👋
 
-My name is ✨ **Alexis Rodriguez** ✨ and I am a Cybersecurity Analyst. I have the following certifications:
+My name is ✨ **Alexis Rodriguez** ✨ and I am a Cybersecurity Analyst focused on Red teaming. I have the following certifications:
 - **CompTIA CySA+** (Cybersecurity Analyst+)
 - **OSCP** (Offensive Security Certified Professional)
 - **CompTIA Security+**
