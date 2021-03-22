@@ -7,7 +7,7 @@ My name is ✨ **Alexis Rodriguez** ✨ and I am a Cybersecurity Analyst focused
 
 ### At this moment
 - 🌱 I’m currently:
-  - working on `simple5ploit`, a Python-based exploitation/information gathering project
+  - adding new features to `simple5ploit`, an exploitation/information gathering project for Python3 scripts
   - learning Amazon Web Services
   - studying for CISSP
   - hacking away at **HackThebox.eu**, profile @ https://www.hackthebox.eu/profile/264210
