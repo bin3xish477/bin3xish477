@@ -4,10 +4,11 @@ My name is ✨ **Alexis Rodriguez** ✨ and I am a full-time Penetration Tester 
 - **CompTIA CySA+** (Cybersecurity Analyst+)
 - **OSCP** (Offensive Security Certified Professional)
 - **CompTIA Security+**
+- **GCPN** (GIAC Cloud Penetration Tester)
 
 ### At this moment
 - 🌱 I’m currently:
-  - studying for GCPN and OWSE
+  - studying OWSE and OSED
   - hunting bugs on HackerOne and Bugcrowd
 - 👯 I’m looking to collaborate on: open-source projects
 - 📫 How to reach me: **rodriguez10011999@gmail.com**
