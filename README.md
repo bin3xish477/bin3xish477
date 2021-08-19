@@ -1,6 +1,6 @@
 ### 👋 `Hello, World!` 👋
 
-My name is ✨ **Alex Rodriguez** ✨ and I am a full-time Penetration Tester by night, and a part-time Cyber security Assistant Instructor by day. I have the following certifications:
+My name is ✨ **Alexis Rodriguez** ✨ and I am a red-team focused Cybersecurity Analyst, and also a part-time Cybersecurity Assistant Instructor. I have the following certifications:
 - **CompTIA CySA+** (Cybersecurity Analyst+)
 - **OSCP** (Offensive Security Certified Professional)
 - **CompTIA Security+**
@@ -8,8 +8,9 @@ My name is ✨ **Alex Rodriguez** ✨ and I am a full-time Penetration Tester by
 
 ### At this moment
 - 🌱 I’m currently:
-  - studying OWSE and OSED
-  - hunting bugs on HackerOne and Bugcrowd
+  - Studying malware analysis
+  - Studying for the AWS Solutions Architect certification
+  - Learning Docker and Kubernetes for Penetration Testing
 - 👯 I’m looking to collaborate on: open-source projects
 - 📫 How to reach me: **rodriguez10011999@gmail.com**
 - 😄 Pronouns: he/him/his
