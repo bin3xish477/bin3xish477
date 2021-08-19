@@ -1,6 +1,6 @@
 ### 👋 `Hello, World!` 👋
 
-My name is ✨ **Alexis Rodriguez** ✨ and I am a red-team focused Cybersecurity Analyst, and also a part-time Cybersecurity Assistant Instructor @Fullstack Academy. I have the following certifications:
+My name is ✨ **Alexis Rodriguez** ✨ and I am a red-team focused Cybersecurity Analyst, and also a part-time Cybersecurity Assistant Instructor **@**Fullstack Academy. I have the following certifications:
 - **CompTIA CySA+** (Cybersecurity Analyst+)
 - **OSCP** (Offensive Security Certified Professional)
 - **CompTIA Security+**
