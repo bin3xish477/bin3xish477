@@ -8,9 +8,9 @@ My name is ✨ **Alexis Rodriguez** ✨ and I am a red-team focused Cybersecurit
 
 ### At this moment
 - 🌱 I’m currently:
-  - Studying malware analysis
-  - Studying for the AWS Solutions Architect certification
-  - Learning Docker and Kubernetes for Penetration Testing
+  - Studying Malware Analysis using Lenny Zeltser's **Remnux** Linux distro
+  - Studying for the **AWS Solutions Architect** certification
+  - Learning **Docker and Kubernetes for Penetration Testing**
 - 👯 I’m looking to collaborate on: open-source projects
 - 📫 How to reach me: **rodriguez10011999@gmail.com**
 - 😄 Pronouns: he/him/his
