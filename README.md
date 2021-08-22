@@ -12,5 +12,5 @@ My name is ✨ **Alexis Rodriguez** ✨ and I am a red-team focused Cybersecurit
   - Studying for the **AWS Solutions Architect** certification
   - Learning **Docker and Kubernetes for Penetration Testing**
 - 👯 I’m looking to collaborate on: open-source projects
-- 📫 How to reach me: **rodriguez10011999@gmail.com**
+- 📫 How to reach me: **arodriguez99@pm.me**
 - 😄 Pronouns: he/him/his
