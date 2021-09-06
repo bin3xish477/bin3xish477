@@ -1,6 +1,6 @@
 ### 👋 `Hello, World!` 👋
 
-My name is ✨ **Alexis Rodriguez** ✨ and I am a red-team focused Cybersecurity Analyst, and also a part-time Cybersecurity Assistant Instructor @Fullstack Academy. I have the following certifications:
+My name is ✨ **Alexis Rodriguez** ✨ and I am a Security Analyst and a part-time Cybersecurity Assistant Instructor @Fullstack Academy. In my current position @GuardSight, I mostly perform penetration tests for clients. I have the following certifications:
 - **CompTIA CySA+** (Cybersecurity Analyst+)
 - **OSCP** (Offensive Security Certified Professional)
 - **CompTIA Security+**
@@ -8,9 +8,8 @@ My name is ✨ **Alexis Rodriguez** ✨ and I am a red-team focused Cybersecurit
 
 ### At this moment
 - 🌱 I’m currently:
-  - Studying **Malware Analysis** using Lenny Zeltser's **Remnux** Linux distro
   - Studying for the **AWS Solutions Architect** certification
-  - Learning **Docker and Kubernetes for Penetration Testing**
-- 👯 I’m looking to collaborate on: open-source projects
+  - Learning **Kubernetes** Security
+  - Pwning machines on **HackTheBox**
+  - Studying advanced WiFi pentesting for my first WiFi pentest
 - 📫 How to reach me: **arodriguez99@pm.me**
-- 😄 Pronouns: he/him/his
