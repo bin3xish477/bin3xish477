@@ -12,4 +12,5 @@ My name is ✨ **Alexis Rodriguez** ✨ and I am a Security Analyst and a part-t
   - Learning **Kubernetes** Security
   - Pwning machines on **HackTheBox**
   - Studying advanced WiFi pentesting for my first WiFi pentest
+  - Researching TTPs used by modern threat actors
 - 📫 How to reach me: **arodriguez99@pm.me**
