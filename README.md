@@ -10,8 +10,9 @@ My name is ✨ **Alexis Rodriguez** ✨ and I am a Penetration Tester @GuardSigh
 
 ### At this moment
 - 🌱 I’m currently:
-  - Studying for the **AWS Solutions Architect** certification
+  - Studying for Offensive Security Web Expert (**OSWE**)
   - Learning **Kubernetes** Security
   - Pwning machines on **HackTheBox**, my profile -> [bin3xish477@htb](https://app.hackthebox.com/profile/264210)
   - Researching TTPs used by modern threat actors
+  - Developing tools with GoLang
 - 📫 How to reach me: **arodriguez99@pm.me**
