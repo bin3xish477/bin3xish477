@@ -15,5 +15,5 @@ My name is ✨ **Alexis Rodriguez** ✨ and I am a Penetration Tester @GuardSigh
   - Pwning machines on **HackTheBox**, my profile -> [bin3xish477@htb](https://app.hackthebox.com/profile/264210)
   - Researching TTPs used by modern threat actors
   - Developing tools with GoLang
-  - Writing cybersecurity/tech articles on my [Medium](https://bin3xish477.medium.com/) blog
+  - Writing cybersecurity/tech articles on my [Medium](https://blog.bin3xish477.com/) blog
 - 📫 How to reach me: **arodriguez99@pm.me**
