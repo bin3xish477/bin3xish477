@@ -2,7 +2,7 @@
 
 ### 👋 `Hello, World!` 👋
 
-My name is ✨ **Alexis Rodriguez** ✨ and I am a Penetration Tester @GuardSight and a part-time Cybersecurity Assistant Instructor @Fullstack Academy. I have the following certifications:
+My name is ✨ **Alexis Rodriguez** ✨ and I am a Pen Tester (No, I don't test pens for a living... lol). I have the following certifications:
 - **CompTIA CySA+** (Cybersecurity Analyst+)
 - **OSCP** (Offensive Security Certified Professional)
 - **CompTIA Security+**
