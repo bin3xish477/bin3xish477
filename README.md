@@ -12,4 +12,4 @@ My name is ✨ **Alexis Rodriguez** ✨ and I am a Penetration Tester @ Schellma
   - Learning whatever new topic I need to learn for the current pentest I'm working on
 - 📫 How to reach me: **arodriguez99@protonmail.com**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bin3xish477)](https://github.com/bin3xish477/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bin3xish477&hide=contribs,issues&show_icons=true&theme=dracula)](https://github.com/bin3xish477/github-readme-stats)
