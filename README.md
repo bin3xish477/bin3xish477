@@ -11,3 +11,5 @@ My name is ✨ **Alexis Rodriguez** ✨ and I am a Penetration Tester @ Schellma
   - Writing cybersecurity articles on my [Medium](https://bin3xish477.medium.com/) blog
   - Learning whatever new topic I need to learn for the current pentest I'm working on
 - 📫 How to reach me: **arodriguez99@protonmail.com**
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bin3xish477)](https://github.com/bin3xish477/github-readme-stats)
