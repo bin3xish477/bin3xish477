@@ -2,7 +2,7 @@
 
 ### 👋 `Hello, World!` 👋
 
-My name is ✨ **Alexis Rodriguez** ✨ and I am a Penetration Tester @ Schellman.
+My name is ✨ **Alexis Rodriguez** ✨ and I am a Penetration Tester.
 
 ### At this moment
 - 🌱 I’m currently:
