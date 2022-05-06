@@ -8,6 +8,7 @@ My name is ✨ **Alexis Rodriguez** ✨ and I am a Penetration Tester.
 - 🌱 I’m currently:
   - Pwning machines on **HackTheBox**, my profile -> [bin3xish477@htb](https://app.hackthebox.com/profile/264210)
   - Developing offensive/generic tools with Go
+  - Learning Rust for embedded systems development
   - Writing cybersecurity articles on my [Medium](https://bin3xish477.medium.com/) blog
   - Learning whatever new topic I need to learn for the current pentest I'm working on
 
