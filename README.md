@@ -9,7 +9,7 @@ My name is ✨ **Alexis Rodriguez** ✨ and I am a Penetration Tester.
   - Pwning machines on **HackTheBox**, my profile -> [bin3xish477@htb](https://app.hackthebox.com/profile/264210)
   - Developing offensive/generic tools with Go
   - Learning Rust for embedded systems development
-  - Writing cybersecurity articles on my [Medium](https://bin3xish477.medium.com/) blog
+  - Writing cybersecurity/tech articles on my [blog](https://blog.bin3xish477.com)
   - Learning whatever new topic I need to learn for the current pentest I'm working on
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bin3xish477&hide=contribs,issues&show_icons=true&theme=dracula)](https://github.com/bin3xish477/github-readme-stats)
