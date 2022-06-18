@@ -8,5 +8,5 @@ My name is ✨ **Alexis Rodriguez** ✨ and I am an ex-Penetration Tester who no
   - Studying Cloudflare's service offerings
   - Learning Google Cloud Platform
   - Improving my malware analysis skills
-  - Automating builds with Docker, Docker Compose, and Golang
+  - Automating builds and processes with Docker, Docker Compose, and Golang
   - Pwning machines on **HackTheBox**, my profile -> [bin3xish477@htb](https://app.hackthebox.com/profile/264210)
