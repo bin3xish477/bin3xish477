@@ -1,6 +1,6 @@
 ### 👋 `Hello, World!` 👋
 
-My name is ✨ **Alexis Rodriguez** ✨ and I am an Ex-Penetration Tester who now works on the blue team as a Detections Engineer.
+My name is ✨ **Alexis Rodriguez** ✨ and I am an ex-Penetration Tester who now works on the blue team as a Detections Engineer.
 
 ### At this moment
 - 🌱 I’m currently:
