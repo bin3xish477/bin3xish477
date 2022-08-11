@@ -8,5 +8,5 @@ My name is  **Alexis Rodriguez**  and I am an App Sec Engineer @ [Amazon Web Ser
   - Mastering Amazon Web Services (AWS) ☁️
   - Learning data structures and algorithms
   - Learning secure design and code review 👀
-  - Learning Java (eww), Kubernetes, and Nix
+  - Learning Kubernetes and Nix
   - Brainstorming blog/project ideas 🧠
