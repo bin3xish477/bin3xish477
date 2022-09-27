@@ -7,4 +7,5 @@ My name is  **Alexis Rodriguez**  and I am an App Sec Engineer @ [Amazon Web Ser
   - Writing cybersecurity/tech articles on my [blog](https://bin3xish477.medium.com/) ✍🏻
   - Mastering Amazon Web Services (AWS) ☁️
   - Learning secure design and code review 👀
+  - Threat modeling everything
   - Brainstorming blog/project ideas 🧠
