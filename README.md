@@ -1,6 +1,6 @@
 ### 👋🏻 `Hello, World!` 👋🏻
 
-My name is  **Alexis Rodriguez**  and I am an App Sec Engineer @ [Amazon Web Services (AWS)](https://aws.amazon.com).
+My name is  **Alex Rodriguez**  and I am an App Sec Engineer @ [Amazon Web Services (AWS)](https://aws.amazon.com).
 
 ### At this moment
 - I’m currently:
