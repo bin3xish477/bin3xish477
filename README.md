@@ -1,6 +1,6 @@
 ### 👋🏻 `Hello, World!` 👋🏻
 
-My name is Alex Rodriguez and I am an ${\color{red}Offensive\ Security\ Engineer}$ @**Amazon**.
+My name is Alex Rodriguez and I am an *Offensive Security Engineer* @**Amazon**.
 
 ### At this moment
 - I’m currently:
