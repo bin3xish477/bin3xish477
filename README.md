@@ -8,3 +8,4 @@ My name is Alex Rodriguez and I am an *Offensive Security Engineer* @**Amazon**.
   - Pentesting web apps hosted on AWS ☁️
   - Hunting for bugs 🕷️
   - Brainstorming blog/project ideas 🧠
+  - Studying TensorFlow
